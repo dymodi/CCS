@@ -1,0 +1,16 @@
+# Ignore some files
+
+# Files made by CSS
+*.ccsproject
+# *.ccxml
+# *.cfg
+*.cproject
+*.defs
+*.project
+*.xdchelp
+
+
+# Insignificant folders
+.config/
+.settings/
+Debug/
